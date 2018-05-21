@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: d77a8b4b136435840a75c786661f810b
+timeCreated: 1515153399
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Arm:Left:Lower
+    100002: Arm:Left:Lower_end
+    100004: Arm:Left:Upper
+    100006: Arm:Right:Lower
+    100008: Arm:Right:Lower_end
+    100010: Arm:Right:Upper
+    100012: Body
+    100014: Bones:Enderman
+    100016: Chest
+    100018: //RootNode
+    100020: Eye:Left
+    100022: Eye:Left_end
+    100024: Eye:Right
+    100026: Eye:Right_end
+    100028: EyeTracking
+    100030: EyeTracking:Left
+    100032: EyeTracking:Left_end
+    100034: EyeTracking:Right
+    100036: EyeTracking:Right_end
+    100038: Head
+    100040: IK-Leg:Right
+    100042: IK-Rotation:Left
+    100044: IK-Rotation:Left_end
+    100046: IK-Rotation:Right
+    100048: IK-Rotation:Right_end
+    100050: IK.Leg:Left
+    100052: Leg:L:L
+    100054: Leg:L:L_end
+    100056: Leg:L:R
+    100058: Leg:L:R_end
+    100060: Leg:U:L
+    100062: Leg:U:R
+    100064: Main
+    100066: Mob_Enderman
+    100068: Scream
+    400000: Arm:Left:Lower
+    400002: Arm:Left:Lower_end
+    400004: Arm:Left:Upper
+    400006: Arm:Right:Lower
+    400008: Arm:Right:Lower_end
+    400010: Arm:Right:Upper
+    400012: Body
+    400014: Bones:Enderman
+    400016: Chest
+    400018: //RootNode
+    400020: Eye:Left
+    400022: Eye:Left_end
+    400024: Eye:Right
+    400026: Eye:Right_end
+    400028: EyeTracking
+    400030: EyeTracking:Left
+    400032: EyeTracking:Left_end
+    400034: EyeTracking:Right
+    400036: EyeTracking:Right_end
+    400038: Head
+    400040: IK-Leg:Right
+    400042: IK-Rotation:Left
+    400044: IK-Rotation:Left_end
+    400046: IK-Rotation:Right
+    400048: IK-Rotation:Right_end
+    400050: IK.Leg:Left
+    400052: Leg:L:L
+    400054: Leg:L:L_end
+    400056: Leg:L:R
+    400058: Leg:L:R_end
+    400060: Leg:U:L
+    400062: Leg:U:R
+    400064: Main
+    400066: Mob_Enderman
+    400068: Scream
+    4300000: Mob_Enderman
+    9500000: //RootNode
+    13700000: Mob_Enderman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

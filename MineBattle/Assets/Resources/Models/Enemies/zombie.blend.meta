@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 7b2ef7e913261b24d98f45c26052daae
+timeCreated: 1514891008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Angry
+    100002: Angry_Left
+    100004: Angry_Right
+    100006: Arm_Left_Lower
+    100008: Arm_Left_Upper
+    100010: Arm_Right_Lower
+    100012: Arm_Right_Upper
+    100014: Blink
+    100016: Body
+    100018: Bones_Zombie
+    100020: Chest
+    100022: Drivers_Zombie
+    100024: Eye_Left
+    100026: Eye_Right
+    100028: Eye_Size
+    100030: Eyelid_Lower_Left
+    100032: Eyelid_Lower_Right
+    100034: Eyes
+    100036: EyeTracking
+    100038: EyeTracking_Left
+    100040: EyeTracking_Right
+    100042: Head
+    100044: IK-Leg_Left
+    100046: IK-Leg_Right
+    100048: IK-Rotation_Left
+    100050: IK-Rotation_Right
+    100052: Leg_L_L
+    100054: Leg_L_R
+    100056: Leg_U_L
+    100058: Leg_U_R
+    100060: Main
+    100062: Main_0
+    100064: Mob_Zombie
+    100066: Mouth
+    100068: Outline
+    100070: Outline_001
+    100072: Outline_002
+    100074: Outline_003
+    100076: Outline_004
+    100078: Plane_040
+    100080: Plane_041
+    100082: Plane_042
+    100084: Plane_043
+    100086: Plane_044
+    100088: Plane_045
+    100090: Sad
+    100092: Sad_Left
+    100094: Sad_Right
+    100096: Sphere_006
+    100098: //RootNode
+    400000: Angry
+    400002: Angry_Left
+    400004: Angry_Right
+    400006: Arm_Left_Lower
+    400008: Arm_Left_Upper
+    400010: Arm_Right_Lower
+    400012: Arm_Right_Upper
+    400014: Blink
+    400016: Body
+    400018: Bones_Zombie
+    400020: Chest
+    400022: Drivers_Zombie
+    400024: Eye_Left
+    400026: Eye_Right
+    400028: Eye_Size
+    400030: Eyelid_Lower_Left
+    400032: Eyelid_Lower_Right
+    400034: Eyes
+    400036: EyeTracking
+    400038: EyeTracking_Left
+    400040: EyeTracking_Right
+    400042: Head
+    400044: IK-Leg_Left
+    400046: IK-Leg_Right
+    400048: IK-Rotation_Left
+    400050: IK-Rotation_Right
+    400052: Leg_L_L
+    400054: Leg_L_R
+    400056: Leg_U_L
+    400058: Leg_U_R
+    400060: Main
+    400062: Main_0
+    400064: Mob_Zombie
+    400066: Mouth
+    400068: Outline
+    400070: Outline_001
+    400072: Outline_002
+    400074: Outline_003
+    400076: Outline_004
+    400078: Plane_040
+    400080: Plane_041
+    400082: Plane_042
+    400084: Plane_043
+    400086: Plane_044
+    400088: Plane_045
+    400090: Sad
+    400092: Sad_Left
+    400094: Sad_Right
+    400096: Sphere_006
+    400098: //RootNode
+    2300000: Plane_040
+    2300002: Plane_041
+    2300004: Plane_042
+    2300006: Plane_043
+    2300008: Plane_044
+    2300010: Plane_045
+    2300012: Sphere_006
+    3300000: Plane_040
+    3300002: Plane_041
+    3300004: Plane_042
+    3300006: Plane_043
+    3300008: Plane_044
+    3300010: Plane_045
+    3300012: Sphere_006
+    4300000: Mob_Zombie
+    4300002: Plane_040
+    4300004: Sphere_006
+    4300006: Plane_041
+    4300008: Plane_042
+    4300010: Plane_043
+    4300012: Plane_044
+    4300014: Plane_045
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Mob_Zombie
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

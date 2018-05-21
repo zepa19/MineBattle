@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 0fb681d56d28bfa40849162bf73f56db
+timeCreated: 1515014530
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bones:Creeper
+    100004: Chest
+    100006: //RootNode
+    100008: Eye:Left
+    100010: Eye:Left_end
+    100012: Eye:Right
+    100014: Eye:Right_end
+    100016: EyeTracking
+    100018: EyeTracking:Left
+    100020: EyeTracking:Left_end
+    100022: EyeTracking:Right
+    100024: EyeTracking:Right_end
+    100026: Head
+    100028: IK-Leg:Back:Left
+    100030: IK-Leg:Back:Left_end
+    100032: IK-Leg:Back:Right
+    100034: IK-Leg:Back:Right_end
+    100036: IK-Leg:Front:Left
+    100038: IK-Leg:Front:Left_end
+    100040: IK-Leg:Front:Right
+    100042: IK-Leg:Front:Right_end
+    100044: Leg:Back:Left
+    100046: Leg:Back:Left_end
+    100048: Leg:Back:Right
+    100050: Leg:Back:Right_end
+    100052: Leg:Front:Left
+    100054: Leg:Front:Left_end
+    100056: Leg:Front:Right
+    100058: Leg:Front:Right_end
+    100060: Main
+    100062: Mob_Creeper
+    400000: Body
+    400002: Bones:Creeper
+    400004: Chest
+    400006: //RootNode
+    400008: Eye:Left
+    400010: Eye:Left_end
+    400012: Eye:Right
+    400014: Eye:Right_end
+    400016: EyeTracking
+    400018: EyeTracking:Left
+    400020: EyeTracking:Left_end
+    400022: EyeTracking:Right
+    400024: EyeTracking:Right_end
+    400026: Head
+    400028: IK-Leg:Back:Left
+    400030: IK-Leg:Back:Left_end
+    400032: IK-Leg:Back:Right
+    400034: IK-Leg:Back:Right_end
+    400036: IK-Leg:Front:Left
+    400038: IK-Leg:Front:Left_end
+    400040: IK-Leg:Front:Right
+    400042: IK-Leg:Front:Right_end
+    400044: Leg:Back:Left
+    400046: Leg:Back:Left_end
+    400048: Leg:Back:Right
+    400050: Leg:Back:Right_end
+    400052: Leg:Front:Left
+    400054: Leg:Front:Left_end
+    400056: Leg:Front:Right
+    400058: Leg:Front:Right_end
+    400060: Main
+    400062: Mob_Creeper
+    4300000: Mob_Creeper
+    9500000: //RootNode
+    13700000: Mob_Creeper
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
